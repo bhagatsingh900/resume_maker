@@ -1,0 +1,16 @@
+{
+   
+    "profile": [
+        {
+            "title": "profile",
+            "description": "profile description",
+            "type": "user"
+        },
+        "properties": [
+            {
+                "font_famalily" :"vardana",
+                "font_size" : 25 ,                
+            }
+        ]
+    ]
+}
